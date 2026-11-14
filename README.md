@@ -19,8 +19,8 @@ Systems Engineering student from Guatemala 🇬🇹. I teach kids and teens how 
 | [Maquina-de-turing](https://github.com/SilverSays/Maquina-de-turing) | Turing machine simulator with step-by-step and manual modes | Python, Tkinter |
 | [Proyecto-YT-Music-Nativo](https://github.com/SilverSays/Proyecto-YT-Music-Nativo) | Native YouTube Music desktop player, no Chromium | Python |
 | [Sonic-Advance-physics-experiment](https://github.com/SilverSays/Sonic-Advance-physics-experiment) | Sonic fangame rebuilding Sonic Advance-style physics from the Sonic Physics Guide | Godot 3, Python |
-| [proyecto-db-umg](https://github.com/SilverSays/proyecto-db-umg) | University database project that became a personal one | PHP, SQL |
-| [bitseda-studio](https://github.com/SilverSays/bitseda-studio) | Website for a business course project | HTML, CSS |
+| [proyecto-db-umg](https://github.com/SilverSays/proyecto-db-umg) | Academic management portal; university database project that became a personal one | PHP, Oracle, Docker |
+| [bitseda-studio](https://github.com/SilverSays/bitseda-studio) | Website for a web dev + screen printing studio (business course project) | HTML, CSS, JS |
 
 ### Tech I use
 
