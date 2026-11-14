@@ -25,3 +25,7 @@ Systems Engineering student from Guatemala 🇬🇹. I teach kids and teens how 
 ### Tech I use
 
 Python · JavaScript · Java · C · C++ · C# · PHP · HTML/CSS · MySQL · Oracle / APEX · Godot · Figma
+
+### Get in touch
+
+📫 [mbguzmanci@gmail.com](mailto:mbguzmanci@gmail.com)
