@@ -11,8 +11,7 @@ Systems Engineering student from Guatemala 🇬🇹. I teach kids and teens how 
 ### Experience
 
 - **Programming tutor · Kodland LATAM** (freelance). I teach Python, web development (HTML, CSS, JS) and Figma to kids and teens. The `Kodland---*` repos are simple teaching projects I build for my students.
-- **Freelance web developer.** Websites for small businesses.
-
+- **Freelance web developer.** 
 ### Projects worth a look
 
 | Project | What it is | Stack |
