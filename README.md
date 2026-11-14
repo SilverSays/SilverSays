@@ -1,6 +1,6 @@
 # Hi, I'm Silv 👋
 
-Systems Engineering student from Guatemala 🇬🇹. I build websites for small businesses, teach kids and teens how to code, and spend my free time on side projects just because they're fun (like rebuilding Sonic's physics in Python).
+Systems Engineering student from Guatemala 🇬🇹. I teach kids and teens how to code, and spend my free time on side projects just because they're fun (like rebuilding Sonic's physics in Python).
 
 ### What I'm into
 
