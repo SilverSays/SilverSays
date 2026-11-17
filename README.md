@@ -1,6 +1,6 @@
 # Hi, I'm Silv 👋
 
-Systems Engineering student from Guatemala 🇬🇹. I teach kids and teens how to code, and spend my free time on side projects just because they're fun (like rebuilding Sonic's physics in Python).
+Systems Engineering student from Guatemala 🇬🇹 and Web Developer at Microtronix ESolutions. I also teach kids and teens how to code, and spend my free time on side projects just because they're fun (like rebuilding Sonic's physics in Python).
 
 ### What I'm into
 
@@ -10,8 +10,9 @@ Systems Engineering student from Guatemala 🇬🇹. I teach kids and teens how 
 
 ### Experience
 
+- **Web Developer · Microtronix ESolutions** (remote, from Nov 2026). My first full-time dev role at a company, building for the web every day.
 - **Programming tutor · Kodland LATAM** (freelance). I teach Python, web development (HTML, CSS, JS) and Figma to kids and teens. The `Kodland---*` repos are simple teaching projects I build for my students.
-- **Freelance web developer.** 
+
 ### Projects worth a look
 
 | Project | What it is | Stack |
